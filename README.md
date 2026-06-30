@@ -81,3 +81,8 @@ documented in Findings.
 Phase 1 (hackathon) submission. Ice detection results are scoped to what the supplied detected
 product can rigorously support (CPR-based spatial anomaly detection); a full per-pixel DOP-based
 criterion would require SLC/complex PRADAN products, noted as future work.
+
+<img width="882" height="496" alt="image" src="https://github.com/user-attachments/assets/cfc258fe-c558-4e1f-850e-b0168965e513" />
+
+<img width="1089" height="690" alt="image" src="https://github.com/user-attachments/assets/fae88e13-7283-40d6-a07d-ea8fdac6635d" />
+
