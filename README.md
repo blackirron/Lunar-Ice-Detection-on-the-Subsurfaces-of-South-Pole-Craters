@@ -1,5 +1,4 @@
 # Lunar-Ice-Detection-Subsurfaces-of-South-Pole-Craters
-# PS8 — Subsurface Ice Detection in Lunar South Polar Craters
 
 **Bharatiya Antariksh Hackathon — Problem Statement 8**
 Detection and Characterization of Subsurface Ice in Lunar South Polar Regions Using Chandrayaan-2 Radar and Imagery Data
